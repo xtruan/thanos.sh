@@ -1,2 +1,3 @@
 # thanos.sh
-*snap*
+
+`./thanos.sh /dir/to/snap`
